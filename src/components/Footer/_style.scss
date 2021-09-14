@@ -1,0 +1,33 @@
+.footer {
+  margin-top: 100px;
+  background: #1668ec;
+  padding: 50px;
+  position: relative;
+  img.img-fluid {
+    position: absolute;
+    left: 0;
+    top: 0px;
+  }
+  .content {
+    margin-top: 110px;
+    img {
+      margin-bottom: 30px;
+      width: 153px;
+    }
+    span {
+      color: #fff;
+      font-weight: 600;
+      font-size: 17px;
+    }
+  }
+  i {
+    color: #fff;
+    margin-right: 20px;
+    font-size: 25px;
+    margin-top: 25px;
+  }
+  p {
+    color: #fff;
+    margin-top: 20px;
+  }
+}

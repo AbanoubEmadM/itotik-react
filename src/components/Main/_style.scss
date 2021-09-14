@@ -1,0 +1,43 @@
+.main {
+  background: linear-gradient(to right, #1668ec 0%, #685ac5 100%);
+  padding: 140px;
+  h2 {
+    font-weight: 600;
+    color: #fff;
+    font-size: 83px;
+    margin-top: 10%;
+    margin-bottom: 30px;
+  }
+  p {
+    color: #fff;
+    line-height: 1.9;
+    font-size: 17px;
+  }
+  .bg {
+    padding-bottom: 60px;
+  }
+  .svg {
+    transform: rotate(0deg);
+    position: absolute;
+    top: 71%;
+    width: 1582px;
+    left: 1px;
+  }
+  button {
+    border: 2px solid #fff;
+    padding: 12px 42px;
+    border-radius: 53px;
+    background: transparent;
+    color: #fff;
+    font-weight: 600;
+    &:hover {
+      background-color: #fff;
+      color: #1668ec;
+    }
+  }
+  @media (max-width: 767px) {
+    .svg {
+      display: none;
+    }
+  }
+}

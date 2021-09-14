@@ -1,0 +1,29 @@
+@import "//src/App.scss";
+.about {
+  margin-top: 50px;
+  h2 {
+    font-weight: 600;
+    color: #333;
+  }
+  p.text-center {
+    color: #777;
+    margin-bottom: 50px;
+  }
+
+  .col-md-6 {
+    margin-bottom: 90px;
+    h3 {
+      color: #333;
+      font-weight: bold;
+      font-size: 34px;
+    }
+    P {
+      color: #777;
+      font-size: 16px;
+      line-height: 1.9;
+    }
+    button {
+      @include BTN;
+    }
+  }
+}

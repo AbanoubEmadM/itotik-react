@@ -1,0 +1,209 @@
+{
+    "services": [
+        {
+        "id":1,
+        "title":"Unique UI/UX Design",
+        "desc":"Short description for the ones who look for something new. Short description for the ones who look for something new.",
+        "icon":"fas fa-paint-brush",
+        "link":"Learn More"
+        },
+        {
+        "id":2,
+        "title":"Theme Development",
+        "desc":"Short description for the ones who look for something new. Short description for the ones who look for something new.",
+        "icon":"fas fa-columns",
+        "link":"Learn More"
+        },
+        {
+        "id":3,
+        "title":"Digital Marketing",
+        "desc":"Short description for the ones who look for something new. Short description for the ones who look for something new.",
+        "icon":"fas fa-power-off",
+        "link":"Learn More"
+        },
+        {
+        "id":4,
+        "title":"Website Design",
+        "desc":"Short description for the ones who look for something new. Short description for the ones who look for something new.",
+        "icon":"fas fa-rocket",
+        "link":"Learn More"
+        },
+        {
+        "id":5,
+        "title":"Responsive Design",
+        "desc":"Short description for the ones who look for something new. Short description for the ones who look for something new.",
+        "icon":"fas fa-rocket",
+        "link":"Learn More"
+        },
+        {
+        "id":6,
+        "title":"Responsive Design",
+        "desc":"Short description for the ones who look for something new. Short description for the ones who look for something new.",
+        "icon":"fas fa-rocket",
+        "link":"Learn More"
+        }
+    ],
+    "pricing": [
+        {
+            "id":1,
+            "title":"Strater",
+            "price":"$ 199",
+            "time":"per year",
+            "desc1":" Carefully crafted components",
+            "desc2":"Amazing page examples",
+            "desc3":"Super friendly support team",
+            "desc4":" Awesome Support"
+        },
+        {
+            "id":2,
+            "title":"Strater",
+            "price":"$ 399",
+            "time":"per year",
+            "desc1":" Carefully crafted components",
+            "desc2":"Amazing page examples",
+            "desc3":"Super friendly support team",
+            "desc4":" Awesome Support"
+        },
+        {
+            "id":3,
+            "title":"Strater",
+            "price":"$ 599",
+            "time":"per year",
+            "desc1":" Carefully crafted components",
+            "desc2":"Amazing page examples",
+            "desc3":"Super friendly support team",
+            "desc4":" Awesome Support"
+        }
+    ],
+    "work": [
+        {
+            "id":1,
+            "img":"/images/team-2.png",
+            "name":"Elon Musk",
+            "job":"Founder and CEO",
+            "icon1":"fab fa-facebook fa-lg",
+            "icon2":"fab fa-twitter fa-lg",
+            "icon3":"fab fa-linkedin fa-lg",
+            "icon4":"fab fa-instagram fa-lg"
+        },
+        {
+            "id":2,
+            "img":"/images/team-1.png",
+            "name":"Isabela Moriera",
+            "job":"Sr.Software Engineer",
+            "icon1":"fab fa-facebook fa-lg",
+            "icon2":"fab fa-twitter fa-lg",
+            "icon3":"fab fa-linkedin fa-lg",
+            "icon4":"fab fa-instagram fa-lg"
+        },
+        {
+            "id":3,
+            "img":"/images/team-3.png",
+            "name":"Fiona Smith",
+            "job":"Business Development Manager",
+            "icon1":"fab fa-facebook fa-lg",
+            "icon2":"fab fa-twitter fa-lg",
+            "icon3":"fab fa-linkedin fa-lg",
+            "icon4":"fab fa-instagram fa-lg"
+        }
+    ],
+    "clients":[
+        {
+            "id":1,
+            "desc":"Lorem ipsum dolor sit amet,consetetur sadipscing elitr, seddiam nonu eirmod tempor invidunt labore.Lorem ipsum dolor sit amet,consetetur sadipscing elitr, seddiam nonu.",
+            "img":"/images/author-1.jpg",
+            "name":"Jenny Deo",
+            "job":"CEO,SpaceX",
+            "icon":"fas fa-star",
+            "iconQ":"fas fa-quote-left"
+        },
+        {
+            "id":2,
+            "desc":"Lorem ipsum dolor sit amet,consetetur sadipscing elitr, seddiam nonu eirmod tempor invidunt labore.Lorem ipsum dolor sit amet,consetetur sadipscing elitr, seddiam nonu.",
+            "img":"/images/author-2.jpg",
+            "name":"Jenny Deo",
+            "job":"CEO,SpaceX",
+            "icon":"fas fa-star",
+            "iconQ":"fas fa-quote-left"
+
+        },
+        {
+            "id":3,
+            "desc":"Lorem ipsum dolor sit amet,consetetur sadipscing elitr, seddiam nonu eirmod tempor invidunt labore.Lorem ipsum dolor sit amet,consetetur sadipscing elitr, seddiam nonu.",
+            "img":"/images/author-3.jpg",
+            "name":"Jenny Deo",
+            "job":"CEO,SpaceX",
+            "icon":"fas fa-star",
+            "iconQ":"fas fa-quote-left"
+        }
+    ],
+    "faq": [
+        {
+            "id":1,
+            "title":"Frequently Asked Question One",
+            "desc":"Lorem ipsum dolor sit amet,consetetur sadipscing elitr, seddiam nonu eirmod tempor invidunt labore.Lorem ipsum dolor sit amet,consetetur sadipscing elitr, seddiam nonu.",
+            "icon":"fas fa-angle-right"
+        },
+        {
+            "id":2,
+            "title":"Frequently Asked Question One",
+            "desc":"Lorem ipsum dolor sit amet,consetetur sadipscing elitr, seddiam nonu eirmod tempor invidunt labore.Lorem ipsum dolor sit amet,consetetur sadipscing elitr, seddiam nonu.",
+            "icon":"fas fa-angle-right"
+        },
+        {
+            "id":3,
+            "title":"Frequently Asked Question One",
+            "desc":"Lorem ipsum dolor sit amet,consetetur sadipscing elitr, seddiam nonu eirmod tempor invidunt labore.Lorem ipsum dolor sit amet,consetetur sadipscing elitr, seddiam nonu.",
+            "icon":"fas fa-angle-right"
+        },
+        {
+            "id":4,
+            "title":"Frequently Asked Question One",
+            "desc":"Lorem ipsum dolor sit amet,consetetur sadipscing elitr, seddiam nonu eirmod tempor invidunt labore.Lorem ipsum dolor sit amet,consetetur sadipscing elitr, seddiam nonu.",
+            "icon":"fas fa-angle-right"
+    
+        }
+    ],
+    "contact" : [
+        {
+            "id":1,
+            "address":"Elizabeth St, Melbourne",
+            "add2":"1202 Australia",
+            "icon":"fas fa-map-marker-alt"
+        },
+        {
+            "id":2,
+            "address":"info@example.com",
+            "add2":"info@example.com",
+            "icon":"far fa-envelope"
+        },
+        {
+            "id":3,
+            "address":"+333 789-321-654",
+            "add2":"+333 985-458-609",
+            "icon":"fas fa-phone-alt"
+        }
+    ],
+    "brands":[
+        {
+            "id":1,
+            "img":"/images/brand-1.png"
+        },
+        {
+            "id":2,
+            "img":"/images/brand-2.png"
+        },
+        {
+            "id":3,
+            "img":"/images/brand-3.png"
+        },
+        {
+            "id":4,
+            "img":"/images/brand-4.png"
+        },
+        {
+            "id":5,
+            "img":"/images/brand-5.png"
+        }
+    ]
+}

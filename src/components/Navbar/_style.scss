@@ -1,0 +1,30 @@
+.navbar {
+  background: linear-gradient(to right, #1668ec 0%, #685ac5 100%) !important;
+  padding: 20px;
+}
+.navbar-light .navbar-brand {
+  margin-left: 150px;
+  color: #fff;
+}
+.navbar-light .navbar-nav .nav-link {
+  color: #fff;
+  font: {
+    weight: 500;
+    family: "Poppins", sans-serif;
+  }
+  margin-right: 35px;
+}
+button {
+  border: 2px solid #fe8464;
+  padding: 11px 41px;
+  border-radius: 53px;
+  background: linear-gradient(to right, #fe8464 0%, #fe6e9a 50%, #fe8464 100%);
+  color: #fff;
+  font-weight: 600;
+  transition: 0.3s;
+  &:hover {
+    background: #fff;
+    border: 2px solid #fff;
+    color: #fe8464;
+  }
+}

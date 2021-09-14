@@ -1,0 +1,43 @@
+.faq {
+  margin-top: 80px;
+  h2 {
+    text-align: center;
+    color: #333;
+    margin-bottom: 15px;
+    font: {
+      weight: 600;
+    }
+  }
+  p:not(.desc) {
+    text-align: center;
+    line-height: 1.9;
+    color: #777;
+    font-family: "Poppins", sans-serif;
+    margin-bottom: 50px;
+  }
+  .col-md-6:first-child {
+    margin-top: 5%;
+    div {
+      padding-bottom: 15px;
+      .desc {
+        display: none;
+        font-family: "Poppins", sans-serif;
+        padding: 7px;
+        line-height: 1.8;
+      }
+      .head {
+        font-family: "Poppins", sans-serif;
+        border: 1px solid #ddd;
+        padding: 10px;
+        i {
+          transition: 0.3s;
+          float: right;
+          transform: rotate(0);
+          &.clicked {
+            transform: rotate(90deg);
+          }
+        }
+      }
+    }
+  }
+}
