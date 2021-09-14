@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/itotik-react/static/css/main.d08c2fd0.chunk.css",
+    "main.js": "/itotik-react/static/js/main.35735044.chunk.js",
+    "main.js.map": "/itotik-react/static/js/main.35735044.chunk.js.map",
+    "runtime-main.js": "/itotik-react/static/js/runtime-main.8d3cbb5c.js",
+    "runtime-main.js.map": "/itotik-react/static/js/runtime-main.8d3cbb5c.js.map",
+    "static/css/2.53150396.chunk.css": "/itotik-react/static/css/2.53150396.chunk.css",
+    "static/js/2.b46cb85f.chunk.js": "/itotik-react/static/js/2.b46cb85f.chunk.js",
+    "static/js/2.b46cb85f.chunk.js.map": "/itotik-react/static/js/2.b46cb85f.chunk.js.map",
+    "static/js/3.7d67386d.chunk.js": "/itotik-react/static/js/3.7d67386d.chunk.js",
+    "static/js/3.7d67386d.chunk.js.map": "/itotik-react/static/js/3.7d67386d.chunk.js.map",
+    "index.html": "/itotik-react/index.html",
+    "static/css/2.53150396.chunk.css.map": "/itotik-react/static/css/2.53150396.chunk.css.map",
+    "static/css/main.d08c2fd0.chunk.css.map": "/itotik-react/static/css/main.d08c2fd0.chunk.css.map",
+    "static/js/2.b46cb85f.chunk.js.LICENSE.txt": "/itotik-react/static/js/2.b46cb85f.chunk.js.LICENSE.txt",
+    "static/media/about1.43ed304a.svg": "/itotik-react/static/media/about1.43ed304a.svg",
+    "static/media/about2.317d127e.svg": "/itotik-react/static/media/about2.317d127e.svg",
+    "static/media/banner.61b8b1ac.png": "/itotik-react/static/media/banner.61b8b1ac.png",
+    "static/media/header-shape.db67f677.svg": "/itotik-react/static/media/header-shape.db67f677.svg",
+    "static/media/logo.89167294.svg": "/itotik-react/static/media/logo.89167294.svg",
+    "static/media/price-shape.7c33efe3.svg": "/itotik-react/static/media/price-shape.7c33efe3.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8d3cbb5c.js",
+    "static/css/2.53150396.chunk.css",
+    "static/js/2.b46cb85f.chunk.js",
+    "static/css/main.d08c2fd0.chunk.css",
+    "static/js/main.35735044.chunk.js"
+  ]
+}
