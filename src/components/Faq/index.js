@@ -13,7 +13,7 @@ class FAQ extends Component {
             })
         })
         $(function(){
-            $(".head").click(function(){
+            $(".head").on("click",function(){
                 $(this).next().slideToggle();
                 $(".desc").not($(this).next()).slideUp()
                 $(this).children().toggleClass("clicked");
